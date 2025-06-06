@@ -24,11 +24,11 @@ function loadPrompt(promptName) {
 
 async function translateImageName(imageName) {
     try {
-        const prompt = `You are an expert translator tasked with translating file names from Slovenian to Croatian.
+        const prompt = `You are an expert translator tasked with translating file names from Slovenian to SLOVAKIAN.
 
         Instructions:
 
-        Translate only words from Slovenian to Croatian.
+        Translate only words from Slovenian to SLOVAKIAN.
 
         Preserve the original filename structure including:
 
