@@ -1,0 +1,125 @@
+PROMPT ZA GENERIRANJE SLIK MAJIC
+
+TEKST NA MAJICI
+Ce je prilozena slika z dizajnom, iz nje izvleci natancen tekst in ga uporabi na majici.
+Ce slika ni prilozena, uporabi besedilo:
+[TEXT]
+Tekst naj bo jasno citljiv, velik in dobro postavljen na majici.
+
+FORMAT SLIKE
+Portretna orientacija (razmerje 2:3)
+
+MODEL (Oseba)
+
+Spol: nakljucno (moski ali zenska)
+
+Starost: nakljucno (20s, 30s, 40s, 50s ali 60s)
+
+Videz: evropski tip
+
+Barva las: nakljucno (blond, crna, rdeca, rjava)
+
+Priceska: nakljucno (kratka, dolga, cop, kodrasta, valovita ali ravna)
+
+Obrazne dlake (moski): nakljucno (pobrit, rahla brada, polna brada)
+
+Izraz: nasmejan, samozavesten, sproscen ali prijazen
+
+Smer pogleda: nakljucno (v kamero, ob stran ali neformalno)
+
+Poza: nakljucno (stoji, sedi, se naslanja, hodi)
+
+Brez vidnih tatujev
+
+DODATKI (opcijsko: nakljucno dodaj enega ali dva)
+
+Soncna ali opticna ocala
+
+Uhani, ogrlica ali zapestnica
+
+Kapa ali klobucek
+
+Tote torba (v roki), majhna torbica ali clutch (v roki ob strani)
+
+Brez crossbody ali naramnih torb, ki prekrivajo dizajn
+
+Za zenske: lak za nohte (rdec, nevtralen, pisan)
+
+Opcijsko ura ali prstan
+
+DIZAJN MAJICE
+
+Tip: standardna majica s kratkimi rokavi
+
+Barva: nakljucno (crna, bela, rdeca, kelly zelena, roza, rumena, royal blue NAJMANJKRAT uporabljena)
+
+Ce je izbrana royal blue, zagotovi, da je zivahna, prava kraljevsko modra (ne mornarska ali bleda)
+
+PISAVA (nakljucno izberi)
+
+Comic
+
+Antonio
+
+Titan One
+
+Amatic SC
+
+Sunny Drop
+
+Wedges
+
+BARVA PISAVE (nakljucno izberi, vedno v mocnem kontrastu z majico)
+
+Bela
+
+Crna
+
+Rdeca
+
+Neon rumeno-zelena
+
+POSTAVITEV TEKSTA
+
+Centrirano, jasno vidno in dominantno na majici
+
+OKOLJE IN OZADJE
+
+Lokacija: nakljucno (notranje ali zunanje)
+
+Osvetlitev: vedno naravna svetloba
+
+Ozadje: mehko zamegljeno, ce je potrebno
+
+Sezonski kontekst (nakljucno):
+
+Pomlad: sveze zelenje, roze
+
+Poletje: sonce, zivahni toni
+
+Jesen: zlato listje, topel ambient
+
+Zima: izkljucno notranji prostor, topel in prijeten
+
+SPLOSEN STIL IN RAZPOLOZENJE
+Fotografije naj delujejo:
+
+Avtenticno, naravno, modno in vabljivo
+
+Kot resnicne fotografije trendovske osebe, ki nosi majico
+
+Primerne za moderno spletno trgovino (brez umetnega ali pretirano nastavljenega videza)
+
+PRAVILA ZA RAZNOLIKOST
+
+Vsaka slika mora imeti unikatno kombinacijo modela, barve majice, pisave, okolja in dodatkov
+
+Royal blue barva naj bo uporabljena minimalno (izjemoma)
+
+Vedno ohrani razmerje slike 2:3
+
+Ce je prilozena dizajnerska slika, uporabi le tekst iz te slike
+
+IME SLIKE
+
+Slike imenuj po tekstu na majici (brez sumnikov)

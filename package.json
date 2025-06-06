@@ -1,0 +1,23 @@
+{
+  "name": "chatgpt-convert-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chatgpt-convert-image": "file:",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "openai": "^4.103.0",
+    "sharp": "^0.34.2",
+    "worker-threads": "^1.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
